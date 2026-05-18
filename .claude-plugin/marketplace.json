@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mattpocock-skills-marketplace",
+  "description": "Wrapper marketplace that tracks mattpocock/skills upstream",
+  "owner": {
+    "name": "sasaki-ryouta"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "description": "Matt Pocock's planning, design, and development skills",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": ".",
+        "ref": "main"
+      },
+      "category": "development",
+      "homepage": "https://github.com/mattpocock/skills"
+    }
+  ]
+}
