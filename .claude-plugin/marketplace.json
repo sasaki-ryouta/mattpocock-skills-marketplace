@@ -10,10 +10,8 @@
       "name": "mattpocock-skills",
       "description": "Matt Pocock's planning, design, and development skills",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/mattpocock/skills.git",
-        "path": ".",
-        "ref": "main"
+        "source": "url",
+        "url": "https://github.com/mattpocock/skills.git"
       },
       "category": "development",
       "homepage": "https://github.com/mattpocock/skills"
