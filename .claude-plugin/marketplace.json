@@ -8,13 +8,13 @@
   "plugins": [
     {
       "name": "mattpocock-skills",
-      "description": "Matt Pocock's planning, design, and development skills",
+      "description": "Matt Pocock's planning, design, and development skills (all skills, every scope)",
       "source": {
         "source": "url",
-        "url": "https://github.com/mattpocock/skills.git"
+        "url": "https://github.com/sasaki-ryouta/skills.git"
       },
       "category": "development",
-      "homepage": "https://github.com/mattpocock/skills"
+      "homepage": "https://github.com/sasaki-ryouta/skills"
     }
   ]
 }
